@@ -1,0 +1,15 @@
+/Users/oleg/Desktop/Practos2/bin/Debug/net7.0/Practos2
+/Users/oleg/Desktop/Practos2/bin/Debug/net7.0/Practos2.deps.json
+/Users/oleg/Desktop/Practos2/bin/Debug/net7.0/Practos2.runtimeconfig.json
+/Users/oleg/Desktop/Practos2/bin/Debug/net7.0/Practos2.dll
+/Users/oleg/Desktop/Practos2/bin/Debug/net7.0/Practos2.pdb
+/Users/oleg/Desktop/Practos2/obj/Debug/net7.0/Practos2.csproj.AssemblyReference.cache
+/Users/oleg/Desktop/Practos2/obj/Debug/net7.0/Practos2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oleg/Desktop/Practos2/obj/Debug/net7.0/Practos2.AssemblyInfoInputs.cache
+/Users/oleg/Desktop/Practos2/obj/Debug/net7.0/Practos2.AssemblyInfo.cs
+/Users/oleg/Desktop/Practos2/obj/Debug/net7.0/Practos2.csproj.CoreCompileInputs.cache
+/Users/oleg/Desktop/Practos2/obj/Debug/net7.0/Practos2.dll
+/Users/oleg/Desktop/Practos2/obj/Debug/net7.0/refint/Practos2.dll
+/Users/oleg/Desktop/Practos2/obj/Debug/net7.0/Practos2.pdb
+/Users/oleg/Desktop/Practos2/obj/Debug/net7.0/Practos2.genruntimeconfig.cache
+/Users/oleg/Desktop/Practos2/obj/Debug/net7.0/ref/Practos2.dll
